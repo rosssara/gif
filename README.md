@@ -1,5 +1,2 @@
 # gif
-heading.onmouseover=changeHeading;
-
-function changeHeading(){
- heading.innerHTML="You moved the house over me";
+>echo "hello world" >>index.html
